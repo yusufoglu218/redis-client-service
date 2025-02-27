@@ -1,4 +1,4 @@
-#Redis Client Microservice
+# Redis Client Microservice
 
 This microservice provides a REST API to query log messages from Redis based on a UUID.
 
